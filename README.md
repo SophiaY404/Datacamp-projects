@@ -49,5 +49,5 @@ This repository contains the projects completed and downloaded from [DataCamp](h
 | **Naïve Bees: Image Loading and Processing** | `Image processing` | Load, transform, and understand images of honey bees and bumble bees in Python.|
 | **A Network Analysis of Game of Thrones** | `Network analysis` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books.|
 | **Book Recommendations from Charles Darwin** | `NLP` | Build a book recommendation system using NLP and the text of books like "On the Origin of Species."|
-| **Word Frequency in Moby Dick** | `NLP`  `Web scraping` | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.|
+| **Word Frequency in Moby Dick** | `NLP`   `Web scraping`  &nbsp;&nbsp; | Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick.|
 | **Do Left-handed People Really Die Young?** | `Statistics (Bayes)` | Use pandas and Bayesian statistics to see if left-handed people actually die earlier than righties.|
